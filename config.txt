@@ -1,0 +1,8 @@
+super massa
+1
+5
+3
+3
+abc 1 50
+bde 2 40 
+asd 3 30
